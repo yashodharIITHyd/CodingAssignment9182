@@ -17,7 +17,7 @@ Here we have to consider 4 directions instead of 8 because of remaining 4 ways h
 
 For each and every element 
 	keep track on values of 4 directions
-	Checking 4 consecutive points can be considered (points around consists of 2,3 elements but not 4)
+	Checking 4 consecutive points can be considered (around corner points consists of 2,3 elements but not 4)
 	notedown the direction and the position
 
 Finally it prints the maximum value along with the position and the direction of elements
