@@ -1,5 +1,5 @@
 # workJapanCodingAssignment
-workJapanCodingAssignment
+
 Assumptions:
 
 Let mXn be the size of given matrix.
