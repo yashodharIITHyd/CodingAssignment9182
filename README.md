@@ -1,4 +1,4 @@
-# workJapanCodingAssignment
+#CodingAssignment
 
 Assumptions:
 
